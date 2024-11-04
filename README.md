@@ -2,6 +2,10 @@
 
 一个基于[Steamcommunity 302](https://www.dogfight360.com/blog/686/)的Caddy配置，旨在把原删除的功能加回去
 
+**八百年不更新一次警告！！！此仓库处于常年摆烂阶段，作者看不看Issue纯纯看心情，但是看到Issue绝对会尝试帮你解决**
+
+**介意八百年不更新一次的朋友们请异步原版steamcommunity302**
+
 ## 如何使用
 
 ### 准备文件
@@ -14,7 +18,7 @@
 Windows: <https://github.com/caddyserver/caddy/releases/download/v2.6.2/caddy_2.6.2_windows_amd64.zip>
 Mac老芯片：<https://github.com/caddyserver/caddy/releases/download/v2.6.2/caddy_2.6.2_mac_amd64.tar.gz>
 Mac M系列芯片：<https://github.com/caddyserver/caddy/releases/download/v2.6.2/caddy_2.6.2_mac_arm64.tar.gz>
-Linux: https://github.com/caddyserver/caddy/releases/download/v2.6.2/caddy_2.6.2_linux_amd64.tar.gz
+Linux: <https://github.com/caddyserver/caddy/releases/download/v2.6.2/caddy_2.6.2_linux_amd64.tar.gz>
 
 随后解压，得到`caddy.exe`或者`caddy`（取决于你的系统），把它复制出来，到你能找到的地方。
 
