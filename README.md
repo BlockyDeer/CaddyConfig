@@ -69,6 +69,9 @@ Linux: https://github.com/caddyserver/caddy/releases/download/v2.6.2/caddy_2.6.2
 
 ## Q&A
 
+- Pixiv（或者某个其他功能）用不了，无法访问怎么办？
+steamcommunity302的作者早已移除了pixiv支持，我这个仓库的意义就是给那个功能强行续命，不受作者支持的功能早晚坏掉。挂掉了我也没办法，我也没有学过caddy配置，这仓库只是作为分享。
+
 - Steam客户端登录无限转圈？
 用记事本或者其他纯文本编辑器打开`hosts`文件，找到带有`api.steampowered.com`的一行（请善用搜索功能），在该行最前面加一个`#`号，保存。
 
